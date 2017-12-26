@@ -1,0 +1,2 @@
+# xmlCompareTest
+test
