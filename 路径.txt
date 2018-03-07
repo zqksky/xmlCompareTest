@@ -1,0 +1,11 @@
+https://myemail.techmahindra.com/owa
+
+http://220.248.37.68/ems（错的）
+
+http://220.248.37.68:8000/ems/Login.aspxs(EMS 账号密码都是六位数字)
+
+https://easy.techmahindra.com/EasyHome.aspx
+
+https://timesheet.techmahindra.com
+
+http://life.ciicsh.com
