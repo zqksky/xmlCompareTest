@@ -1,0 +1,25 @@
+一、问题：如何用vs2010的工程打开vs2015？
+
+二、综合网上的参考：转换的步骤如下
+
+（1）将工程是.sln用记事本打开后,更换以下信息如下：
+
+Microsoft Visual Studio Solution File, Format Version  11.00
+ # Visual Studio 2010
+ VisualStudioVersion = 10.0.40219.1
+ MinimumVisualStudioVersion = 10.0.40219.1
+
+
+
+
+
+（2）打开.vcxproj文件文件,修改两个地方
+
+<Project ToolsVersion="4.0"
+ DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+
+
+
+
+
+<TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
